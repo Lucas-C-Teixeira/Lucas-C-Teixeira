@@ -1,71 +1,54 @@
 <!--- Latex Text Formatting https://latex-tutorial.com/symbols/text-formatting/  -->
-# 👨‍💻 Lucas Teixeira
+#  Lucas Teixeira
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lucas-C-Teixeira&color=blue&style=flat-square)
 
-Hello 👋  
+Hello   
 I'm **Lucas Teixeira**, a **Computer Science and Data Science & Machine Learning student** with a strong interest in software development, data-driven solutions, and artificial intelligence.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I am currently pursuing a **Bachelor’s Degree in Data Science and Machine Learning** at **CEUB**, while strengthening my foundations through Harvard’s **CS50 – Introduction to Computer Science** and **CS50 – Introduction to Artificial Intelligence with Python**.
+I’m a Data Science and Machine Learning undergraduate with a strong interest in software engineering, artificial intelligence, quantum computing, and high-performance systems.
 
-My focus is on building solid fundamentals in **programming logic, algorithms, and problem-solving**, applying theoretical knowledge to practical projects and continuously improving through hands-on learning.
+What motivates me most is understanding how technology works beneath the surface — from algorithms and backend architecture to intelligent systems, scalable applications, and emerging computational paradigms. I enjoy combining analytical thinking with practical development, turning complex ideas into clean and efficient solutions.
 
-I am motivated by understanding how systems work from the ground up and developing clean, maintainable, and scalable solutions.
+Currently, I’m focused on strengthening my foundations in computer science while building projects that improve my skills in backend development, AI, data-driven systems, and problem-solving. I value writing maintainable code, learning deeply, and continuously pushing my technical limits through hands-on experimentation and exploration of advanced technologies.
+
+I’m particularly interested in international opportunities, ambitious engineering environments, and projects where curiosity, ownership, and continuous learning are valued.
+---
+
+##  Technical Profile
+
+- Data Science and Machine Learning undergraduate with strong interests in Software Engineering, Artificial Intelligence, and Quantum Computing
+- Focused on building solid computer science foundations through hands-on projects and continuous experimentation
+- Interested in scalable systems, backend development, intelligent systems, and computational problem-solving
+- Motivated by understanding how technologies work under the hood and transforming complex ideas into practical solutions
 
 ---
 
-## 🧠 Technical Skills
+##  Technologies
 
-### Programming Languages
-- Java
-- JavaScript
-- Python
+### Languages
+Python • Java • JavaScript • SQL • R
 
-### Computer Science Foundations
-- Algorithms
-- Data Structures
-- Logic Programming
-- Problem Solving
+### AI / Data
+NumPy • Pandas • Matplotlib • Scikit-learn • TensorFlow
 
-### Data & AI
-- Data Analysis fundamentals
-- Machine Learning fundamentals
-- Python for Data Science & AI
+### Computer Science
+Algorithms • Data Structures • Object-Oriented Programming • Problem Solving
 
-### Tools & Technologies
-- Git
-- GitHub
+### Tools & Development
+Git • GitHub • Linux • VS Code
 
 ---
 
-## 🎓 Education
+##  Areas of Interest
 
-**Bachelor’s Degree in Data Science and Machine Learning**  
-Centro Universitário de Brasília (CEUB)  
-*In progress*
+Artificial Intelligence • Backend Engineering • Quantum Computing • Machine Learning • Scalable Systems
 
----
-
-## 📘 Courses & Certifications
-
-- **CS50 – Introduction to Computer Science** (Harvard University)
-- **CS50 – Introduction to Artificial Intelligence with Python** (Harvard University)
-
----
-
-## 🌍 Languages
-
-- **English:** Fluent  
-- **Italian:** Intermediate  
-- **Portuguese:** Native  
-
----
-
-## 📂 Projects
+##  Featured Projects
 
 Here you will find academic and personal projects focused on:
 - Programming fundamentals
@@ -77,9 +60,10 @@ Each project reflects my learning process and continuous improvement as a develo
 
 ---
 
-## 📬 Contact
+##  Contact
 
-- LinkedIn: https://www.linkedin.com/in/lucas-teixeira-191677389  
+- LinkedIn: https://www.linkedin.com/in/lucas-teixeira-191677389
+- email: lucascortesteixeira.lct@gmail.com 
 
 ---
 
